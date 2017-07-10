@@ -1,0 +1,8 @@
+{
+  "name": "Orbits",
+  "description": "Orbits component for BitQuery VA-App: overview. Configures position settings for graph radial layout (by orbits).",
+  "author": "Jim Vallandingham, Svetlana Bykovskaya <bykovskaya.svetlana@gmail.com>",
+  "license": "MIT",
+  "version": "0.8.0",
+  "main": "Orbits.js"
+}
